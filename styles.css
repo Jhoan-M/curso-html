@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2? family = Cormorant + Garamond: ital, wght @ 1300 & display = swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+}
+
+header{
+        width: 100%;
+        height: 150px;
+		top: 0;
+        padding: 20px;
+        box-shadow:inset 0 -3em 3em rgba(0,0,0,0.1), 0 0  0 2px rgb(85, 81, 81), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+        background-image: radial-gradient(circle at 120.71% 50%, #e4ed69 0, #d0ec69 12.5%, #b6e664 25%, #95db5b 37.5%, #6acc50 50%, #30bc48 62.5%, #00b147 75%, #00a94e 87.5%, #00a65a 100%);
+}
+
+.logo img{
+    width: 32%;
+    border-radius: 6px;
+    background-image: radial-gradient(circle at -20.44% 56.16%, #fff03c 0, #fff435 7.14%, #fff632 14.29%, #f0f435 21.43%, #d1ef3b 28.57%, #b0e742 35.71%, #8edb4a 42.86%, #6acc50 50%, #43bd55 57.14%, #00af5b 64.29%, #00a461 71.43%, #009a67 78.57%, #00936e 85.71%, #008e77 92.86%, #008b81 100%);
+    box-shadow:inset 0 -3em 3em rgba(0,0,0,0.1), 0 0  0 2px rgb(85, 81, 81), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+
+.contenido{
+    width: 98%;
+    margin-left: 15px;
+    height: 600px;
+    background-image: radial-gradient(circle at 37.72% -19.64%, #98af90 0, #8fa98f 8.33%, #87a18c 16.67%, #7e9888 25%, #768d81 33.33%, #6e8079 41.67%, #67716e 50%, #606362 58.33%, #5b5657 66.67%, #564b4c 75%, #514242 83.33%, #4d3b39 91.67%, #4a3632 100%);
+    top: 0;
+    padding: 20px;
+    box-shadow:inset 0 -3em 3em rgba(0,0,0,0.1), 0 0  0 2px rgb(197, 180, 180), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+    color: #f0fff0;
+    /* border-radius: 200px; */
+}
+.papaya img{
+    width: 500px;
+    border-radius: 15px;
+    box-shadow:inset 0 -3em 3em rgba(0,0,0,0.1), 0 0  0 2px rgb(197, 180, 180), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+
+}
+.papaya{
+    text-align: center;
+}
+
+
+.descripcion{
+margin-top: 38px;
+text-align: center;
+font-size: 22px;
+color: rgb(255, 255, 255);
+font-family: 'Cormorant Garamond', serif;
+border-bottom:solid rgb(82, 72, 72) ;
+}
+
+.descripcion h1{
+margin: 20px;
+text-align: center;
+text-decoration: underline;
+font-size: 30px;
+}
+
+
+.ingredientes h2{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: underline;
+}
+.ingredientes div p{
+    margin: 60px;
+    line-height: 30px;
+    font-size: 19px;
+}
+.ingredientes .cocina{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.ingredientes{
+
+    color:black;
+    width: 98%;
+    margin-left: 15px;
+    height: auto;
+    font-family: 'Cormorant Garamond', serif;
+}
+.Direction{
+    width: 100%;
+    height: 100%;
+    padding: 60px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 19px;
+ 
+}
+
+
+
+
